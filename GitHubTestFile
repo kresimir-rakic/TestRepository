@@ -1,0 +1,12 @@
+using System;
+
+namespace TestNamespace
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Neki tekst.");
+        }
+    }
+}
